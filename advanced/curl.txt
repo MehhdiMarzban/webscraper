@@ -1,0 +1,2 @@
+curl -v [sitename] => this is for checking site headers
+** also can use site [curl converter]
